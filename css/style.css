@@ -2628,7 +2628,7 @@ img.testimonial-thumb{
    border-radius: 0;
    padding: 15px 30px 10px;
    background: #ffc000 url(../images/newsletter-icon.png) no-repeat 20px 50% !important;
-   text-indent: -9999em;
+   text-indent: 15px;
 }
 
 /* News section
